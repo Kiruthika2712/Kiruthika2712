@@ -1,13 +1,16 @@
-<h1 align="center">Hey 👋, I'm Kiruthika Sivakumar</h1><p align="center"> <img src="https://komarev.com/ghpvc/?username=kiruthika2712&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika2712" /> </p>
+<h1 align="center">Hey 👋, I'm Kiruthika Sivakumar</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kiruthika2712&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika2712" />
+</p>
 
-<h3 align="center">I'm a pre-final year computer science engineering student on a thrilling journey to become a versatile full-stack developer💻. My passion lies in crafting elegant code and building immersive web experiences.</h3>
-
-<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
+<h3 align="center">Welcome to the saga of a final year Computer Science and Engineering student who dreams in code and lives in the matrix🔮🪄On a quest to become a full-stack developer so versatile that even Swiss Army knives would envy 💻. I spend my days crafting code as elegantly as a Shakespearean sonnet🪄, or at least that’s what I tell myself as I debug for the 100th time💡.</h3>
 
 <br>
+<p align="center">
+  <img alt="coding" width="320" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+</p>
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🛠️ My Developer Toolbox</h2>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -42,15 +45,23 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>&nbsp;
-  </p>
-  <br>
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/kiruthika-sivakumar-197a2b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiruthika-sivakumar-197a2b252" height="30" width="40" /></a> &nbsp; &nbsp;
 </p>
+
 <br>
-<h2>GitHub stats</h2>
+
+<h2 align="left">📚 Favorite Quote</h2>
+    <h3>Failed on the first try? Congratulations, you’ve just launched Version 1.0 ! </h3>
+
+<h2 align="left">🚀 Let's Connect!</h2>
+<h3 align="left">
+    Obsessed with the wonderful world of code and creativity 💬? Or maybe swap your favorite playlist, memes and coding hacks? then lets connect on <a href="https://linkedin.com/in/kiruthika-sivakumar-197a2b252" target="_blank" style="color: #0e76a8; text-decoration: none; font-weight: bold;">LinkedIn</a>✨
+</h3>
+
+
+<h2>📊 My Coding Chronicles</h2>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiruthika2712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Kiruthika2712&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kiruthika2712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />&nbsp;&nbsp;
+    <img src="https://streak-stats.demolab.com?user=Kiruthika2712&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+
+<h3 align="center">"Real programmers count from 0 💻"</h3>
