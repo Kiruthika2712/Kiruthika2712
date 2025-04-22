@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=kiruthika2712&label=Profile%20views&color=0e75b6&style=flat" alt="kiruthika2712" />
 </p>
 
-<h3 align="center">Welcome to the saga of a final year Computer Science and Engineering student who dreams in code and lives in the matrix🔮🪄On a quest to become a full-stack developer so versatile that even Swiss Army knives would envy 💻. I spend my days crafting code as elegantly as a Shakespearean sonnet🪄, or at least that’s what I tell myself as I debug for the 100th time💡.</h3>
+<h3 align="center">Welcome to the world of a developer who dreams in code, lives for logic, chases bugs and finds joy in solving problems.</h3>
 
 <br>
 <p align="center">
