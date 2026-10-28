@@ -39,7 +39,7 @@ Finding bugs before the bad guys do✨
     <h3>Your attack surface is the sum of everything you refused to question! </h3>
 <h2 align="left">🚀 Let's Connect!</h2>
 <h3 align="left">
-    Obsessed with the wonderful world of cybesecurity💬? Or maybe swap your favorite playlist, memes and a few thoughts on breaking things to understand how they work? then lets connect on <a href="https://linkedin.com/in/kiruthika-sivakumar-197a2b252" target="_blank" style="color: #0e76a8; text-decoration: none; font-weight: bold;">LinkedIn</a>✨
+    Obsessed with the unpredictable world of cybesecurity💬? Or maybe swap your favorite playlist, memes and a few thoughts on breaking things to understand how they work? then lets connect on <a href="https://linkedin.com/in/kiruthika-sivakumar-197a2b252" target="_blank" style="color: #0e76a8; text-decoration: none; font-weight: bold;">LinkedIn</a>✨
 </h3>
 
 <h2>GitHub stats</h2>
