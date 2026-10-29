@@ -22,7 +22,7 @@
 🎯 Threat-Modeling/
 🐧 Linux/
 
-[SUCCESS] Just a girl making this digital world a lil' safer🔐
+[SUCCESS] A Cybersecurity engineer making this digital world a lil' safer🔐
 [SECURED] Making the internet behave itself😌
 
 ┌──(kiruthika㉿cyber)-[~]
